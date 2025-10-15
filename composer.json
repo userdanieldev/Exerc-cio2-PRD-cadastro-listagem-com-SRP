@@ -1,0 +1,12 @@
+{
+    "name": "guvie/solid-dois",
+    "description": "Exercicio 2 de PHP",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
